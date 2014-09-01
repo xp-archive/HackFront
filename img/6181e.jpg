@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+  <meta http-equiv="content-type" content="text/html; charset=windows-1250">
+  <meta name="robots" content="noindex,follow" />
+  <meta name="googlebot" content="noindex,follow" />
+  <title>FREEhosting.cz - Hosting web stránek zdarma</title>
+  
+  <link rel="stylesheet" href="style.css" type="text/css" /> 
+  </head>
+  <style>
+  body{   
+  background-image: url('images/bgCZ.png');
+  }
+  </style>
+  <!--[if IE]>
+  <style>
+  #obsah{   
+  width: 920px;
+  }
+  </style>
+  <![endif]-->
+<body>
+<div id="obsah">
+<a href="http://freehosting.cz/"><div id="logo">
+</div></a></div><div style="clear:both;"></div>
+<div id="obsah">
+    <div id="obsah_mega">
+       <h1>404 - Stránka nenalezena</h1>
+       <hr>
+       <p style="text-align:center;">
+<a href="http://freehosting.cz/"><img src="bannery/freehosting.jpg" border="0"></a><br>
+FREEHOSTING.CZ<br><br>
+<a href="http://pipni.cz/"><img src="bannery/pipni.jpg" border="0"></a><br>
+PIPNI.CZ<br><br>
+<a href="http://vserver.cz/"><img src="bannery/vserver.gif" border="0"></a><br>
+VSERVER.CZ<br><br>
+<br><br>
+       </p>
+  </div>
+  
+  
+</div>
+          <div style="clear:both;"></div>    <br>
+  
+
+      <div id="paticka">
+            <div id="paticka_menu">
+              <li><a href="http://freehosting.cz/">FreeHosting</a></li>   
+              <li><a href="http://freecloud.cz/">Freecloud</a></li>
+              <li><a href="http://pipni.cz/">PIPNI</a></li>
+              <li><a href="http://vserver.cz/">vServer</a></li>
+              <li><a href="http://koukni.cz/">KOUKNI</a></li>
+              <li><a href="http://manual.pipni.cz/">FAQ</a></li>
+              <li><a href="http://forum.pipni.cz/">Fórum</a></li>
+              <li><a href="http://support.pipni.cz/">Support</a></li>
+              <li><a href="http://domeny.pipni.cz/">Domény</a></li>
+            </div>  
+            <div style="clear:both;"></div>    
+     <div id="lista"></div>
+            <div id="paticka_text">
+              <div id="paticka_left">
+                Službu zajištuje: <a href="http://pipni.cz/">PIPNI s.r.o.</a>
+              </div>
+              <div id="paticka_right">
+                © 2012 PIPNI. Všechna práva vyhrazena. Designed by PIPNI s.r.o. 
+              </div>
+            </div>
+      </div><img src="http://toplist.cz/count.asp?id=1193853&logo=mc" border="0" width="0" height="0" style="width: 0px; height 0px;"/>
+  </body>
+</html>
